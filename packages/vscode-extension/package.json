@@ -1,5 +1,5 @@
 {
-  "name": "structure-builder",
+  "name": "structure-builder-vscode",
   "displayName": "Structure Builder",
   "description": "Generate project folder structures from ASCII tree definitions.",
   "version": "1.0.0",
@@ -21,3 +21,4 @@
     ]
   }
 }
+
