@@ -1,5 +1,5 @@
 {
-    "name": "@sarthakbhatkar/structure-builder",
+    "name": "structure-builder",
     "version": "1.0.0",
     "bin": {
         "structure-builder": "dist/index.js"
