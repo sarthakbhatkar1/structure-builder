@@ -101,7 +101,7 @@ npx structure-builder structure.txt
 ### Install globally
 
 ```bash
-npm install -g structure-builder
+npm install -g @sarthakbhatkar/structure-builder
 ```
 
 ```bash
